@@ -34,4 +34,4 @@ pip3 install transformers opencv-python pytelegrambotapi
 
 Thanks for using, please give star on this repository in Github.
 
-It works on the basis of the [AI model](https://huggingface.co/Falconsai/nsfw_image_detection).
+It works on the basis of the [ViT model](https://huggingface.co/Falconsai/nsfw_image_detection).
